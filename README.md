@@ -90,7 +90,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/data-structures-algorithms-python.git
+git clone https://github.com/MoksedurRahman/data-structures-algorithms-python.git
 
 # Run an example
 python data_structures/stack.py
