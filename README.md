@@ -86,15 +86,6 @@
 - [ ] Graph Algorithms
 - [ ] Dynamic Programming
 
-## 🚀 How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/MoksedurRahman/data-structures-algorithms-python.git
-
-# Run an example
-python data_structures/stack.py
-
 
 # 🧠 What This Repo Is About
     - A structured repository for learning and implementing Data Structures and Algorithms (DSA) in Python.
@@ -147,3 +138,13 @@ python data_structures/stack.py
     - Serve as a personal knowledge base for quick review
 
     - Open-source contribution to support learners preparing for interviews
+
+
+## 🚀 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/MoksedurRahman/data-structures-algorithms-python.git
+
+# Run an example
+python data_structures/stack.py
