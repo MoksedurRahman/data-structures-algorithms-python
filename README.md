@@ -94,3 +94,56 @@ git clone https://github.com/MoksedurRahman/data-structures-algorithms-python.gi
 
 # Run an example
 python data_structures/stack.py
+
+
+# 🧠 What This Repo Is About
+    - A structured repository for learning and implementing Data Structures and Algorithms (DSA) in Python.
+
+    - Designed to strengthen problem-solving skills for coding interviews and competitive programming.
+
+    - Includes Python implementations, practice problems, and visual notebooks.
+
+# 📌 Why I Built This Repo
+    - To prepare for technical interviews at top tech companies.
+
+    - To apply theoretical knowledge from my MSc in Applied Data Science.
+
+    - To showcase my understanding of algorithmic thinking and clean coding.
+
+    - To maintain a consistent habit of practicing DSA using Python.
+
+# 🧱 What’s Covered
+    - Fundamental Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Graphs
+
+    - Core Algorithms: Searching, Sorting, Recursion, Backtracking
+
+    - Advanced Topics: Dynamic Programming, Greedy Algorithms, Graph Algorithms
+
+    - Practice Problems from LeetCode, HackerRank, Codeforces, etc.
+
+# 🛠️ Tools & Technologies Used
+    - Python 3.x
+
+    - Jupyter Notebook (for visualizations and explanations)
+
+    - pytest for testing
+
+    - Git & GitHub for version control
+
+# 📘 Learning Approach
+    - Hands-on implementation of each concept
+
+    - Code is written with comments and examples
+
+    - Covers time and space complexity analysis
+
+    - Incrementally adding unit tests and real-world applications
+
+# 🎯 Goals of This Project
+    - Build a strong foundation in DSA with Python
+
+    - Help others learn DSA through clear, commented code
+
+    - Serve as a personal knowledge base for quick review
+
+    - Open-source contribution to support learners preparing for interviews
