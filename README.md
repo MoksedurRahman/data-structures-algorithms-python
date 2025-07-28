@@ -87,14 +87,14 @@
 - [ ] Dynamic Programming
 
 
-# 🧠 What This Repo Is About
+## 🧠 What This Repo Is About
     - A structured repository for learning and implementing Data Structures and Algorithms (DSA) in Python.
 
     - Designed to strengthen problem-solving skills for coding interviews and competitive programming.
 
     - Includes Python implementations, practice problems, and visual notebooks.
 
-# 📌 Why I Built This Repo
+## 📌 Why I Built This Repo
     - To prepare for technical interviews at top tech companies.
 
     - To apply theoretical knowledge from my MSc in Applied Data Science.
@@ -103,7 +103,7 @@
 
     - To maintain a consistent habit of practicing DSA using Python.
 
-# 🧱 What’s Covered
+## 🧱 What’s Covered
     - Fundamental Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Graphs
 
     - Core Algorithms: Searching, Sorting, Recursion, Backtracking
@@ -112,7 +112,7 @@
 
     - Practice Problems from LeetCode, HackerRank, Codeforces, etc.
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
     - Python 3.x
 
     - Jupyter Notebook (for visualizations and explanations)
@@ -121,7 +121,7 @@
 
     - Git & GitHub for version control
 
-# 📘 Learning Approach
+## 📘 Learning Approach
     - Hands-on implementation of each concept
 
     - Code is written with comments and examples
@@ -130,7 +130,7 @@
 
     - Incrementally adding unit tests and real-world applications
 
-# 🎯 Goals of This Project
+## 🎯 Goals of This Project
     - Build a strong foundation in DSA with Python
 
     - Help others learn DSA through clear, commented code
